@@ -22,9 +22,6 @@ To set up the environment, please follow these steps:
 
 To run one of the following benchmark tests, you need to download the corresponding dataset.
 
-*   **CIFAR100 → CIFAR100-C**:
-    *   The CIFAR100-C dataset is automatically downloaded when running the experiments.
-    *   Alternatively, you can manually download it from [Zenodo 🔗](https://zenodo.org/record/3555552#.ZDES-XZBxhE).
 *   **ImageNet → ImageNet-C**:
     *   Download the [ImageNet-C 🔗](https://github.com/hendrycks/robustness) dataset from [Zenodo 🔗](https://zenodo.org/record/2235448#.Yj2RO_co_mF).
 *   **ImageNet → ImageNet-3DCC**:
