@@ -1,0 +1,14 @@
+OPTIM:
+  METHOD: "Adam"
+  STEPS: 1
+  BETA: 0.9
+  LR: 2e-4
+  WD: 0.
+
+
+ADAPTER:
+  NAME: LAW
+  LAW:
+    TAU: 1.0
+
+
