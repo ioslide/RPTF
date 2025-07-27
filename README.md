@@ -48,7 +48,7 @@ We provide Python scripts and Bash scripts to run the experiments.
 For example, to run the `IMAGENET → IMAGNET-C` benchmark with the `RPTF` adapter, execute:
 
 ```bash
-python L-CTTA.py -acfg configs/adapter/imagenet/RPTF.yaml -dcfg configs/dataset/imagenet.yaml -ocfg configs/order/imagenet/0.yaml SEED 0
+python L-CS.py -acfg configs/adapter/imagenet/RPTF.yaml -dcfg configs/dataset/imagenet.yaml -ocfg configs/order/imagenet/0.yaml SEED 0
 ```
 
 **Using Bash Scripts:**
