@@ -24,10 +24,10 @@ To run one of the following benchmark tests, you need to download the correspond
 
 *   **ImageNet → ImageNet-C**:
     *   Download the [ImageNet-C 🔗](https://github.com/hendrycks/robustness) dataset from [Zenodo 🔗](https://zenodo.org/record/2235448#.Yj2RO_co_mF).
+*   **ImageNet → ImageNet-C-Bar**:
+    *   Download the [ImageNet-C-Bar 🔗](https://github.com/hendrycks/robustness) dataset from the [Here🔗](https://dl.fbaipublicfiles.com/inc_bar/imagenet_c_bar.tar.gz).
 *   **ImageNet → ImageNet-3DCC**:
     *   Download the [ImageNet-3DCC 🔗](https://github.com/hendrycks/robustness) dataset from the [EPFL-VILAB GitHub repository 🔗](https://github.com/EPFL-VILAB/3DCommonCorruptions?tab=readme-ov-file#3dcc-data).
-
-> **Note:** For non-source-free methods (like RMT, etc.), you will also need to download the original [ImageNet 🔗](https://www.image-net.org/download.php) dataset.
 
 ### 🧠 Models
 
