@@ -94,7 +94,7 @@ This project builds upon the excellent work from several open-source projects. W
 
 If you have any questions, suggestions, or bug reports regarding our work, please feel free to reach out:
 
-*   **Primary Contact**: <a href="mailto:im@xhy.im">im@xhy.im</a>
+*   **Primary Contact**: Haoyu Xiong <a href="mailto:im@xhy.im">im@xhy.im</a>
 *   Alternatively, you can open an issue in this GitHub repository.
 
 ---
